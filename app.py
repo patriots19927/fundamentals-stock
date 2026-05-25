@@ -9,7 +9,7 @@ import plotly.express as px
 # -----------------------------
 st.set_page_config(page_title="Fundamental Analysis Dashboard", layout="wide")
 
-st.title("📊 Fundamental Analysis Dashboard (Yahoo Finance)")
+st.title("📊 Fundamental Analysis Dashboard")
 
 # -----------------------------
 # Sidebar Inputs
